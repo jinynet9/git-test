@@ -8,6 +8,7 @@ int main ( void )
     printf ( "2\n" );
     printf ( "3\n" );
     printf ( "a\n" );
+    printf ( "b\n" );
 
     return 0;
 }
