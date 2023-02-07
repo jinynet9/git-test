@@ -9,6 +9,7 @@ int main ( void )
     printf ( "3\n" );
     printf ( "a\n" );
     printf ( "b\n" );
+    printf ( "c\n" );
 
     return 0;
 }
