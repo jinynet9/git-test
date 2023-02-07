@@ -7,6 +7,7 @@ int main ( void )
     printf ( "1\n" );
     printf ( "2\n" );
     printf ( "3\n" );
+    printf ( "a\n" );
 
     return 0;
 }
